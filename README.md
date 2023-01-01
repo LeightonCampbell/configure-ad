@@ -21,7 +21,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Create Resource Group, Vnet with associated subnet, Virtual Machine running Windows Server OS
-- Step 2
+- Create second Virtual Machine that will interact with Domain Controller
 - Step 3
 - Step 4
 
@@ -36,9 +36,27 @@ Setting the IP Address of the Domain Controller PC to static IP
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o5XCMTi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installing Active Directory roles and services.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/o5XCMTi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<h2>Promoting Server to a Domain Controller</h2>
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/RKc4Juj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Adding a New Forest</h2>
+<img src="https://i.imgur.com/QiEeg95.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Promoting Server to a Domain Controller and adding a new forest
 </p>
 <br />
