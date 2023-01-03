@@ -21,8 +21,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Create Resource Group, Vnet with associated subnet, Virtual Machine running Windows Server OS
-- Create second Virtual Machine that will interact with Domain Controller
-- Step 3
+- Create client Virtual Machine to interact with Domain Controller
+- Install Active Directory roles and services
+- Promote Server to a Domain Controller
+- 
 - Step 4
 
 <h2>Deployment and Configuration Steps</h2>
